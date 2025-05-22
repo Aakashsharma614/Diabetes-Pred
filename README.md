@@ -77,7 +77,7 @@ The dataset used in this project is the Pima Indians Diabetes Dataset, which can
 Clone the repository and install the required dependencies using the following commands:
 
 ```bash
-git clone https://github.com/Priyanshu88/Diabetes-Prediction.git
+git clone https://github.com/Aakashsharma614/Diabetes-Pred
 ```
 
 ```bash
