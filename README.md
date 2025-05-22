@@ -98,6 +98,11 @@ The Jupyter notebook Diabetes Prediction.ipynb contains the code for loading and
 
 
 
+<img width="404" alt="Screenshot 2025-05-22 225801" src="https://github.com/user-attachments/assets/493c08f2-b0c7-41af-bb03-65019ecff388" />
+
+
+
+
 
 ## :rocket: Results
 
