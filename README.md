@@ -12,26 +12,8 @@ The aim of this project is to build and compare the performance of different mac
 
 <!-- Badges -->
 
-<a href="https://priyanshu88-diabestes-prediction-streamlit-app-main-5komds.streamlit.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/Priyanshu88/Diabetes-Prediction.svg)
-![](https://img.shields.io/github/stars/Priyanshu88/Diabetes-Prediction.svg)
-![](https://img.shields.io/github/issues/Priyanshu88/Diabetes-Prediction)
-![](https://img.shields.io/github/last-commit/Priyanshu88/Diabetes-Prediction)
-  
- 
- <h4>
-    <a href="https://priyanshu88-diabestes-prediction-streamlit-app-main-5komds.streamlit.app/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Diabetes-Prediction/blob/master/README.md">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Diabetes-Prediction/issues">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Diabetes-Prediction/issues">Request Feature</a>
-  </h4>
-</div>
 
-<br />
+ 
 
 
 <!-- Table of Contents -->
@@ -108,6 +90,15 @@ cd Diabetes-Prediction
 
 The Jupyter notebook Diabetes Prediction.ipynb contains the code for loading and preprocessing the dataset, as well as implementing and evaluating the KNN, Logistic Regression, Random Forest, Support Vector Machine and Decision Tree models. To run the notebook, simply open it in Jupyter and run each cell in order.
 <br/>
+
+
+## : Images Related:
+
+<img width="654" alt="diabetes1" src="https://github.com/user-attachments/assets/f802c63c-17dd-4f4b-84cd-bce38dbd7ca3" />
+
+
+
+
 ## :rocket: Results
 
 <div align='center'>
@@ -133,23 +124,21 @@ In this project, we compared the accuracy of five different machine learning mod
 
 ## :triangular_flag_on_post: Deployment
 
-Checkout the deployment repository [`here`](https://github.com/Priyanshu88/Diabestes-Prediction-Streamlit-App).
+Checkout the deployment repository [`here`]
 
 
 
 ## :balance_scale: License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Priyanshu88/Diabetes-Prediction/blob/main/LICENSE) file for details.
-
+This project is licensed under the MIT License - see the 
 
 
 ## :handshake: Contact
 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
-
-Project Link: [https://github.com/Priyanshu88/Diabetes-Prediction.git](https://github.com/Priyanshu88/Diabetes-Prediction.git)
+Your Name - Aakash Sharma
+Project Link: (https://github.com/Aakashsharma614/Diabetes-Pred))
 <hr />
 <br />
 <div align="center">Don't forget to leave a star ⭐️</div>
